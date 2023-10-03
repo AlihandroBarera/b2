@@ -1,0 +1,175 @@
+.b2{
+border: 1px solid white;
+height: 50px;
+width: 200px;
+color: white;
+background-color: #19191B;
+}
+
+body {
+    background-color: #19191B;
+    
+}
+
+.b3 {
+    color: purple;
+    text-decoration: none;
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+    
+}
+ul li {
+    list-style: none;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+
+}
+
+.b4 {
+    font-size: 50px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.s-1text {
+    width: 50%;
+    padding: 0 100px;
+}
+
+.s-1img {
+    width: 50%;
+}
+
+.Section-1 {
+    margin-top: 50px;
+    display: flex;
+}
+
+.b5 {
+    color: white;
+}
+
+.b6 {
+    width: 204px;
+height: 58px;
+flex-shrink: 0;
+border-radius: 4px;
+background: #5454D4;
+color: white;
+}
+
+.s-1img img {
+    width: 700px;
+}
+
+.s-2text {
+    display: flex;
+    
+}
+
+.Section-2 {
+    margin-top: 50px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Section-2 img {
+width: 100%;
+}
+
+.Section-3 img {
+    width: 100%;
+    margin-top: 50px;
+    }
+
+    .swiper {
+        width: 900px;
+        height: 600px;
+      }
+
+      .swiper-slide img{ 
+height: 50px;
+width: 50px;
+      }
+    
+
+      .swiper-slide {
+        width: 900px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .swiper-slide h1 {
+        color: white;
+      }
+
+      .swiper-slide p {
+        color: white;
+      }
+
+      .b9 {
+        color: #FFF;
+font-family: Nunito Sans;
+font-size: 58px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+      }
+
+      .b10 img {
+width: 700px;
+height: 600px;
+      }
+
+      .Section-5 {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      .b15 {
+        display: flex;
+        gap: 30px;
+      }
+
+      .b15 p {
+        color: gray;
+      }
+      footer p {
+        color: gray;
+      }
+
+      footer {
+        display: flex;
+        justify-content: space-between;
+        
+      }
+
+      .b20 {
+        margin-top: 50px;
+      }
